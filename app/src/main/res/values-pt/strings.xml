@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="DOC">Dcumento</string>
+    <string name="ID">ID</string>
+    <string name="name">Nome</string>
+    <string name="lnane">Sobrenome</string>
+    <string name="save">Manter</string>
+    <string name="error_http">Ocorreu um erro na solicitação\n</string>
+    <string name="exito_http">Registro salvo com sucesso\n</string>
+    <string name="error_raro">Erro raro\n</string>
+    <string name="no_data_complete">Você deve preencher todos os campos.\n</string>
+</resources>

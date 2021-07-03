@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">App</string>
-    <string name="DOC">Dcumento</string>
+    <string name="DOC">Dcument</string>
     <string name="ID">ID</string>
-    <string name="name">Nombre</string>
-    <string name="lnane">Apellido</string>
-    <string name="save">Guardar</string>
-    <string name="error_http">Se presentó un error en la petición\n</string>
-    <string name="exito_http">Registro guardado con éxito\n</string>
-    <string name="error_raro">Error raro\n</string>
-    <string name="no_data_complete">Debe completar todos los campos\n</string>
+    <string name="name">Name</string>
+    <string name="lnane">Surname</string>
+    <string name="save">Save</string>
+    <string name="error_http">Request Error\n</string>
+    <string name="exito_http">Record saved successfully \n</string>
+    <string name="error_raro">unknown error\n</string>
+    <string name="no_data_complete">You must complete all the fields\n</string>
 </resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="DOC">Документ</string>
+    <string name="ID">ID</string>
+    <string name="name">Имя</string>
+    <string name="lnane">Фамилия</string>
+    <string name="save">Хранить</string>
+    <string name="error_http">В запросе была ошибка.\n</string>
+    <string name="exito_http">Запись успешно сохранена\n</string>
+    <string name="error_raro">Редкая ошибка\n</string>
+    <string name="no_data_complete">Вы должны заполнить все поля\n</string>
+</resources>
